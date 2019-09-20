@@ -5,5 +5,5 @@ public class HelloWorld {
   }
 }
 public static int computeUltimateAnswer() {
-	return 6 * 7;
+	return 6 * 7*3/4;
 }
