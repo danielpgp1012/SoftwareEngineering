@@ -5,7 +5,7 @@ package SoftwareEngineering;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello world. This is a test";
     }
 
     public static void main(String[] args) {
